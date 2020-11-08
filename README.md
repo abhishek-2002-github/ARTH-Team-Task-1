@@ -1,13 +1,14 @@
 # ARTH-Team-Task-1<br />
 
 I and my team has developed a python-based CLI using which one can automate multiple technologies, The list of technologies the CLI will provide are:<br />
-<em>➡️ Linux<br /></em>
-➡️ Docker<br />
-➡️ Hadoop<br />
-➡️ AWS<br />
+<strong>➡️ Linux<br /></strong>
+<strong>➡️ Docker<br /></strong>
+<strong>➡️ Hadoop<br /></strong>
+<strong>➡️ AWS<br /></strong>
 <br />
 The CLI is the result of the integration of multiple technologies with python where we have tried to automate some particular tasks as per requirement and the sub-option which the user will be able to use under the above-listed technologies are:<br />
-🔰 Linux( Local/Remote Command Execution )<br />
+<br />
+<strong>🔰 Linux( Local/Remote Command Execution )<br /></strong>
         1️⃣ Check IP Address<br />
         2️⃣ Run Command<br />
         3️⃣ Configure Webserver<br />
@@ -15,7 +16,7 @@ The CLI is the result of the integration of multiple technologies with python wh
         5️⃣ Create LVM<br />
         6️⃣ Resize LV<br />
 <br />
-🔰 Docker<br />
+<strong>🔰 Docker<br /></strong>
         1️⃣ Configure Docker<br />
         2️⃣ Search Docker Image<br />
         3️⃣ Pull Docker Image<br />
@@ -25,7 +26,7 @@ The CLI is the result of the integration of multiple technologies with python wh
         7️⃣ Run Python Code on Docker<br />
         8️⃣ Launch GUI program in Docker<br />
 <br />
-🔰 Hadoop<br />
+<strong>🔰 Hadoop<br /></strong>
         1️⃣ Configure Hadoop Cluster<br />
         2️⃣ Configure Hadoop Client<br />
         3️⃣ Check Hadoop Report<br />
@@ -35,7 +36,7 @@ The CLI is the result of the integration of multiple technologies with python wh
         7️⃣ Delete a File<br />
         8️⃣ List Files<br />
 <br />
-🔰 AWS<br />
+<strong>🔰 AWS<br /></strong>
         1️⃣ Configure AWS<br />
         2️⃣ Create Key-pair<br />
         3️⃣ Create Security Group<br />
