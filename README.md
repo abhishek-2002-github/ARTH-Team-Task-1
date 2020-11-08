@@ -43,6 +43,6 @@ The CLI is the result of the integration of multiple technologies with python wh
         4️⃣ Launch an Instance<br />
         5️⃣ Describe an Instance<br />
 <br />        
-See my LinkedIn Post for Practical Demonstration<br />
+<strong>See my LinkedIn Post for Practical Demonstration<br /></strong>
 <br />
-➡️ LinkedIn Post : https://www.linkedin.com/posts/aditya-raj-aaa7631a6_python-vimaldaga-righteducation-activity-6731229917503082497--CXu
+<strong>➡️ LinkedIn Post :</strong> https://www.linkedin.com/posts/aditya-raj-aaa7631a6_python-vimaldaga-righteducation-activity-6731229917503082497--CXu
