@@ -5,40 +5,43 @@ I and my team has developed a python-based CLI using which one can automate mult
 ➡️ Docker<br />
 ➡️ Hadoop<br />
 ➡️ AWS<br />
-
-The CLI is the result of the integration of multiple technologies with python where we have tried to automate some particular tasks as per requirement and the sub-option which the user will be able to use under the above-listed technologies are:
-🔰 Linux( Local/Remote Command Execution )
-        1️⃣ Check IP Address
-        2️⃣ Run Command
-        3️⃣ Configure Webserver
-        4️⃣ Create Partition
-        5️⃣ Create LVM
-        6️⃣ Resize LV
-
-🔰 Docker
-        1️⃣ Configure Docker
-        2️⃣ Search Docker Image
-        3️⃣ Pull Docker Image
-        4️⃣ List Container 
-        5️⃣ Remove all the Container
-        6️⃣ Configure Webserver on Docker
-        7️⃣ Run Python Code on Docker
-        8️⃣ Launch GUI program in Docker
-
-🔰 Hadoop
-        1️⃣ Configure Hadoop Cluster
-        2️⃣ Configure Hadoop Client
-        3️⃣ Check Hadoop Report
-        4️⃣ Upload a File
-        5️⃣ Create a File
-        6️⃣ View a File
-        7️⃣ Delete a File
-        8️⃣ List Files
-🔰 AWS
-        1️⃣ Configure AWS
-        2️⃣ Create Key-pair
-        3️⃣ Create Security Group
-        4️⃣ Launch an Instance
-        5️⃣ Describe an Instance
-        
+<br />
+The CLI is the result of the integration of multiple technologies with python where we have tried to automate some particular tasks as per requirement and the sub-option which the user will be able to use under the above-listed technologies are:<br />
+🔰 Linux( Local/Remote Command Execution )<br />
+        1️⃣ Check IP Address<br />
+        2️⃣ Run Command<br />
+        3️⃣ Configure Webserver<br />
+        4️⃣ Create Partition<br />
+        5️⃣ Create LVM<br />
+        6️⃣ Resize LV<br />
+<br />
+🔰 Docker<br />
+        1️⃣ Configure Docker<br />
+        2️⃣ Search Docker Image<br />
+        3️⃣ Pull Docker Image<br />
+        4️⃣ List Container<br />
+        5️⃣ Remove all the Container<br />
+        6️⃣ Configure Webserver on Docker<br />
+        7️⃣ Run Python Code on Docker<br />
+        8️⃣ Launch GUI program in Docker<br />
+<br />
+🔰 Hadoop<br />
+        1️⃣ Configure Hadoop Cluster<br />
+        2️⃣ Configure Hadoop Client<br />
+        3️⃣ Check Hadoop Report<br />
+        4️⃣ Upload a File<br />
+        5️⃣ Create a File<br />
+        6️⃣ View a File<br />
+        7️⃣ Delete a File<br />
+        8️⃣ List Files<br />
+<br />
+🔰 AWS<br />
+        1️⃣ Configure AWS<br />
+        2️⃣ Create Key-pair<br />
+        3️⃣ Create Security Group<br />
+        4️⃣ Launch an Instance<br />
+        5️⃣ Describe an Instance<br />
+<br />        
+See my LinkedIn Post for Practical Demonstration<br />
+<br />
 ➡️ LinkedIn Post : https://www.linkedin.com/posts/aditya-raj-aaa7631a6_python-vimaldaga-righteducation-activity-6731229917503082497--CXu
