@@ -1,10 +1,10 @@
 # ARTH-Team-Task-1<br />
 
- I and my team has developed a python-based CLI using which one can automate multiple technologies, The list of technologies the CLI will provide are: 
-➡️ Linux
-➡️ Docker
-➡️ Hadoop
-➡️ AWS
+I and my team has developed a python-based CLI using which one can automate multiple technologies, The list of technologies the CLI will provide are:<br />
+➡️ Linux<br />
+➡️ Docker<br />
+➡️ Hadoop<br />
+➡️ AWS<br />
 
 The CLI is the result of the integration of multiple technologies with python where we have tried to automate some particular tasks as per requirement and the sub-option which the user will be able to use under the above-listed technologies are:
 🔰 Linux( Local/Remote Command Execution )
