@@ -45,4 +45,4 @@ The CLI is the result of the integration of multiple technologies with python wh
       
 <strong>See my LinkedIn Post for Practical Demonstration<br /></strong>
 <br />
-<strong>➡️ LinkedIn Post :</strong> https://www.linkedin.com/posts/aditya-raj-aaa7631a6_python-vimaldaga-righteducation-activity-6731229917503082497--CXu
+<strong>➡️ LinkedIn Post :</strong> https://www.linkedin.com/posts/abhishek-dwibedy-2627201a1_abhishek-2002-githubarthteamtask-activity-6731588529211674624-_eq1
